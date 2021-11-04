@@ -23,5 +23,7 @@ Configurable features include:
 - Text increment from min value upon loading.
 - Display of % symbol on/off.
 
+The loadLiquidFillGauge method returns an object with an update method which allows the gauge value to be changed without reload.
+
 v2.1 21_11_03 cleanup for v7<br/>
 v2.0 20_10_03 inital version
